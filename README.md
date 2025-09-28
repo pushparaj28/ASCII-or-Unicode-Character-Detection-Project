@@ -21,3 +21,10 @@ JavaScript checks the character's Unicode value using charCodeAt(0).
 If the value is between 0-127, it is an ASCII character.
 If the value is 128 or above, it is a Unicode character.
 The result is displayed dynamically.
+
+https://pushparaj28.github.io/project2_Simon_Game/
+https://pushparaj28.github.io/project2_Simon_Game/
+
+https://pushparaj28.github.io/project2_Simon_Game/
+
+https://pushparaj28.github.io/project2_Simon_Game/
